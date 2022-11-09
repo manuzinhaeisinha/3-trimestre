@@ -7,5 +7,5 @@ header ,footer{background-color: beige;color: aliceblue;text-align: center;font-
 main {background-color: aquamarine;}
 .PRIMEIROPARAGRAFO {text-align: justify;font-size: 18px; border: BLACK SOLID 2PX; padding: 10px;margin: 10px ;}
 .SEGUNDOPARAGRAFO{text-align: justify;font-size: 18px; border: BLACK SOLID 2PX; padding: 10px;margin: 10px ;}
-#TITULOIMAGEM {width: 5%; height: 5%;}
+#SABONETES {width: 5%; height: 5%;}
 #lista {display: inline-block;}
